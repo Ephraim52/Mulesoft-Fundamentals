@@ -2,7 +2,7 @@
 Make GET, DELETE, POST and PUT calls through a secured API proxy.
 
 ## Keyterminology
-- Mocking service= 
+- Mocking service= In general, mocking is creating a virtual service that works like a real service. A mock service imitates a real REST or SOAP API – it contains definitions for operations that clients call, receives requests, and returns simulated responses.
 
 ## Assignment - Advanced REST Client(ARC)
 GET requests.
@@ -61,3 +61,6 @@ Using API proxy Endpoint.
 - You get the response 401 Unauthorized again.
 - Copy/paste the value of the client key's. key/value
 - Sending the request after this should get you the response 200 that it is all Good.
+
+## Sources
+https://www.soapui.org/getting-started/mocking/#:~:text=In%20general%2C%20mocking%20is%20creating,requests%2C%20and%20returns%20simulated%20responses.
