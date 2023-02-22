@@ -5,7 +5,7 @@
 - Discover and make calls tothe Training: American Flights APIin the public Exchange.
 
 ## Keyterminology
-- RAML=RESTful API Modeling Language (RAML) is a YAML-based language for describing static APIs.
+- RAML=RESTful API Modeling Language (RAML) is a YAML- and JSON-based language for describing static APIs.
 
 ## Assignment
 Return to Anypoint Platform
